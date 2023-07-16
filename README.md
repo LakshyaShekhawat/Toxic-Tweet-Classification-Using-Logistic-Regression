@@ -1,1 +1,1 @@
-# Toxic-Tweet-Classification-Using-Logistic-Regression
+# Toxic-Tweet-Classification-Using-LogisticRegression
